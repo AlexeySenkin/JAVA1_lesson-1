@@ -1,12 +1,12 @@
 public class HomeWorkApp {
     public static void main(String[] args) {
-        System.out.println("---------");
+       //System.out.println("---------");
         printThreeWords();
-        System.out.println("---------");
+       //System.out.println("---------");
         checkSumSign();
-        System.out.println("---------");
+        //System.out.println("---------");
         printColor();
-        System.out.println("---------");
+        //System.out.println("---------");
         compareNumbers();
     }
 
@@ -38,8 +38,8 @@ public class HomeWorkApp {
     }
 
     public static void compareNumbers(){
-        int a = -9;
-        int b = 9;
+        int a = 29;
+        int b = 19;
         if (a >= b) {
             System.out.println("a >= b");
         } else {
