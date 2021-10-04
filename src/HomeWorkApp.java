@@ -1,12 +1,12 @@
 public class HomeWorkApp {
     public static void main(String[] args) {
-       //System.out.println("---------");
+        System.out.println("---------");
         printThreeWords();
-       //System.out.println("---------");
+        System.out.println("---------");
         checkSumSign();
-        //System.out.println("---------");
+        System.out.println("---------");
         printColor();
-        //System.out.println("---------");
+        System.out.println("---------");
         compareNumbers();
     }
 
